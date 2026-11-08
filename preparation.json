@@ -1,0 +1,23 @@
+{
+  "dataset_commit": "ab8684a667109f2a7345f4f89ab3b123e8d78e1f",
+  "source_audit": {
+    "original": {
+      "source_records": 2713,
+      "duplicate_question": 792,
+      "passage_length_excluded": 102,
+      "eligible": 1819,
+      "sha256": "fe9bea821245c02d4550f0813c3c3d7603617dbb0ab2301c363c78e582c9ff6e"
+    },
+    "translated": {
+      "source_records": 61606,
+      "passage_length_excluded": 6699,
+      "duplicate_question": 515,
+      "missing_fields": 3,
+      "eligible": 54389,
+      "sha256": "45ab687fef15758a91829d3bbf1f2e20e7d16cb4033b5443e752a57c295cd28b"
+    }
+  },
+  "sample_sha256": "038428392fbe9c7095ffe4e9e0f21830a586dbe479d89cd3f1f3cd26b3889316",
+  "pilot_excluded_count": 10,
+  "seed": 42
+}

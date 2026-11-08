@@ -1,0 +1,22 @@
+{
+  "original_EM_wilson95": [
+    3.469446951953614e-18,
+    0.03699349820698568
+  ],
+  "translated_EM_wilson95": [
+    3.469446951953614e-18,
+    0.03699349820698568
+  ],
+  "EM_gap_original_minus_translated": 0.0,
+  "EM_gap_newcombe95": [
+    -0.03699349820698568,
+    0.03699349820698568
+  ],
+  "EM_fisher_exact_p_two_sided": 1.0,
+  "F1_gap_original_minus_translated": 0.0481972360285054,
+  "F1_gap_bootstrap95": [
+    0.0060357558592078675,
+    0.09566949186219698
+  ],
+  "note": "Independent origin groups, not matched translation pairs; association only."
+}

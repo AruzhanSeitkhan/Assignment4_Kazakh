@@ -1,0 +1,5 @@
+﻿Model,Group,N,Exact_Match,Token_F1
+Qwen2.5-1.5B,original,100,0.0,0.11874505396564221
+Qwen2.5-1.5B,translated,100,0.0,0.07054781793713681
+XLM-R-large,original,100,0.4,0.5610591630591631
+XLM-R-large,translated,100,0.3,0.42368681318681317

@@ -1,0 +1,15 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+  "seed": 42,
+  "device": "cpu",
+  "dtype": "torch.float32",
+  "python": "3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)]",
+  "torch": "2.15.0+cpu",
+  "transformers": "5.22.2",
+  "sample_sha256": "038428392fbe9c7095ffe4e9e0f21830a586dbe479d89cd3f1f3cd26b3889316",
+  "max_new_tokens": 64,
+  "decoding": "greedy",
+  "runtime_seconds": 3234.6164603233337,
+  "finished_utc": "2026-11-08T15:40:15.081964+00:00"
+}

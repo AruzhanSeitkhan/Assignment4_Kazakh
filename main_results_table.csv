@@ -1,0 +1,7 @@
+method,group,n,EM,F1
+Qwen2.5-1.5B-Instruct,original,100,0.0,0.11874505396564221
+Qwen2.5-1.5B-Instruct,translated,100,0.0,0.07054781793713683
+simple_span,original,100,0.02,0.13283333333333333
+simple_span,translated,100,0.06,0.14554761904761906
+tfidf_retrieval,original,100,0.01,0.16243650793650793
+tfidf_retrieval,translated,100,0.01,0.11952380952380953
